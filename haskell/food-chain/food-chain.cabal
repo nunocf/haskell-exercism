@@ -1,0 +1,36 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.33.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: cba71ca021fa3f40c8c99d3cde7482729d68cdf29d1adb58666dfdc96cd77361
+
+name:           food-chain
+version:        0.1.0.3
+build-type:     Simple
+
+library
+  exposed-modules:
+      FoodChain
+  other-modules:
+      Paths_food_chain
+  hs-source-dirs:
+      src
+  ghc-options: -Wall
+  build-depends:
+      base
+  default-language: Haskell2010
+
+test-suite test
+  type: exitcode-stdio-1.0
+  main-is: Tests.hs
+  other-modules:
+      Paths_food_chain
+  hs-source-dirs:
+      test
+  build-depends:
+      base
+    , food-chain
+    , hspec
+  default-language: Haskell2010

@@ -1,0 +1,12 @@
+? /Users/nferreira/Exercism/haskell/crypto-square/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/Paths_crypto_square.hs
+: hash: 3710d552dbcff9840c4c9af39518a3197af7fa31ee03cabee29ebae25aa5fe19
+/Users/nferreira/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+/Users/nferreira/Exercism/haskell/crypto-square/crypto-square.cabal:
+  hash: b04415444ea43d66c344c52622ea0ecaae2436f49ab4a3aa288a66504cd1b5ae
+/Users/nferreira/Exercism/haskell/crypto-square/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h:
+  hash: 7dd30efae379d5dbf3b601bfce1f08062aa88457c101e5fdeb5a13af141092e0
+/Users/nferreira/Exercism/haskell/crypto-square/test/Tests.hs:
+  hash: 15941ab71e91878e825a03134714bce5a4c770b46d278d505b1f702aa23dd022
+/Users/nferreira/Exercism/haskell/crypto-square/package.yaml:
+  hash: c7534c110e96488e2ea59c70f6a3b1330f21f27df83f340bba55ff9e98531f2b
