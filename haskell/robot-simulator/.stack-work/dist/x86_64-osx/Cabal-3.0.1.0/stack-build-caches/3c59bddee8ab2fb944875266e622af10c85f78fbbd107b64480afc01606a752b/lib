@@ -1,0 +1,12 @@
+/Users/nferreira/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+/Users/nferreira/Exercism/haskell/robot-simulator/src/Robot.hs:
+  hash: 809f372f7c31091d47e6ec19fc5cccb58b611b8f94ff0a96bc5c1d3d79b403f3
+/Users/nferreira/Exercism/haskell/robot-simulator/robot-simulator.cabal:
+  hash: 676d376db090515205c48524279d7e858bf8594bc2d696dfd620f770cac3c39a
+? /Users/nferreira/Exercism/haskell/robot-simulator/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_robot_simulator.hs
+: hash: f7f7bcb9f74648799ef47746e837cf2c470b06a4dea5c6b124e67feb50881bd4
+/Users/nferreira/Exercism/haskell/robot-simulator/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
+  hash: 7ae427b47ec2e495ca596a6711d8c46e334d54799b3aa5321a687589724aa65a
+/Users/nferreira/Exercism/haskell/robot-simulator/package.yaml:
+  hash: 51db7958d5ecd879849959314c1c121f52021609c9540c1c518fa15ffc924b39
