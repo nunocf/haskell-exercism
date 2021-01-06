@@ -8,8 +8,8 @@ annotate :: Board -> Board
 annotate board = zipWith (annotateLine board) [0 ..] board
 
 annotateLine :: Board -> Int -> String -> String
-annotateLine board y line =
-    zipWith (annotateChar board y) [0 ..] line
+annotateLine board y =
+    zipWith (annotateChar board y) [0 ..]
 
 annotateChar :: Board -> Int -> Int -> Char -> Char
 annotateChar _ _ _ '*' = '*'
@@ -30,5 +30,5 @@ findElem board (x, y)
     | x < 0 = Nothing
     | x > (length . head $ board) - 1 = Nothing
     | y < 0 = Nothing
-    | y > (length board) - 1 = Nothing
+    | y > length board - 1 = Nothing
     | otherwise = Just $ (board !! y) !! x
